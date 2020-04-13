@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": "01127", "name": "Walker", "Notes": null, "County": "Walker County, AL", "County Code": "01127", "Year": 2010, "Year Code": 2010, "Deaths": 153, "Population": 67023, "Crude Rate": "228.3", "Crude Rate Lower 95% Confidence Interval": 192.1, "Crude Rate Upper 95% Confidence Interval": 264.5, "Age Adjusted Rate": 217.9, "Age Adjusted Rate Lower 95% Confidence Interval": 182.7, "Age Adjusted Rate Upper 95% Confidence Interval": 253.0, "Suicide_Death_Rate": 228.27984423257689, "Calculated_Age_Adjusted_Rate": 218.39402371643934, "binned": "(204.268, 237.829]" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -87.627666, 34.004376 ], [ -87.151173, 33.993423 ], [ -86.964957, 33.856499 ], [ -86.954003, 33.812683 ], [ -87.266188, 33.511452 ], [ -87.42502, 33.60456 ], [ -87.63862, 33.916745 ], [ -87.63862, 34.004376 ], [ -87.627666, 34.004376 ] ] ] } }
+]
+}
