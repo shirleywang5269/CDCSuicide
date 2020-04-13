@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "id": "20207", "name": "Woodson", "Notes": null, "County": "Woodson County, KS", "County Code": "20207", "Year": 2010, "Year Code": 2010, "Deaths": 10, "Population": 3309, "Crude Rate": "Unreliable", "Crude Rate Lower 95% Confidence Interval": 144.9, "Crude Rate Upper 95% Confidence Interval": 555.8, "Age Adjusted Rate": null, "Age Adjusted Rate Lower 95% Confidence Interval": 109.6, "Age Adjusted Rate Upper 95% Confidence Interval": 561.5, "Suicide_Death_Rate": 302.20610456331218, "Calculated_Age_Adjusted_Rate": 346.64636007376788, "binned": "(338.511, 372.071]" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -95.810215, 38.040881 ], [ -95.519938, 38.040881 ], [ -95.525414, 37.734173 ], [ -95.919754, 37.734173 ], [ -95.96357, 37.734173 ], [ -95.958093, 38.040881 ], [ -95.810215, 38.040881 ] ] ] } }
-]
-}
