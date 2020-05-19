@@ -464,4 +464,4 @@ if len(fips) > 500:
 
 
 if __name__ == '__main__':
-    app.run_server(debug=False)
+    app.run_server()
